@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 
 // URL de tu API
-const API_URL = 'https://lfaftechapi.onrender.com/api';
+const API_URL = 'https://lfaftechapi-7nrb.onrender.com/api';
 
 // --- 1. FUNCIÓN (Se ejecuta en el SERVIDOR al construir) ---
 // Esta función se ejecuta UNA SOLA VEZ cuando publicas el sitio.

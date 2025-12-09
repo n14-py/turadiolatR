@@ -7,7 +7,7 @@ const nextConfig = {
     return [
       {
         source: '/sitemap.xml',
-        destination: 'https://lfaftechapi.onrender.com/api/radio/sitemap.xml',
+        destination: 'https://lfaftechapi-7nrb.onrender.com/api/radio/sitemap.xml',
       },
       {
         source: '/robots.txt',

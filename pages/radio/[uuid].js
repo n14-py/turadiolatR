@@ -6,7 +6,7 @@ import { usePlayer } from '../../context/PlayerContext'; // Importamos el "cereb
 import { useState } from 'react';
 
 // --- Constantes ---
-const API_URL = 'https://lfaftechapi.onrender.com/api';
+const API_URL = 'https://lfaftechapi-7nrb.onrender.com/api';
 const PLACEHOLDER_LOGO = '/images/placeholder-radio.png';
 const LOGO_FALLBACK_URL = 'https://api.radio-browser.info/json/stations/search?limit=1&byuuid=';
 

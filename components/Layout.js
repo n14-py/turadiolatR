@@ -45,7 +45,7 @@ export default function Layout({ children }) {
         />
         
         {/* Sitemap (de tu index.html) */}
-        <link rel="sitemap" type="application/xml" title="Sitemap Radios" href="https://lfaftechapi.onrender.com/api/radio/sitemap.xml" />
+        <link rel="sitemap" type="application/xml" title="Sitemap Radios" href="https://lfaftechapi-7nrb.onrender.com/api/radio/sitemap.xml" />
 
         {/* AdSense (de preguntas-frecuentes.html) */}
          <script 

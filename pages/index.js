@@ -7,7 +7,7 @@ import { useState } from 'react';
 import { usePlayer } from '../context/PlayerContext';
 
 // --- Constantes de tu app.js ---
-const API_URL = 'https://lfaftechapi.onrender.com/api';
+const API_URL = 'https://lfaftechapi-7nrb.onrender.com/api';
 const PLACEHOLDER_LOGO = '/images/placeholder-radio.png';
 const LIMITE_POR_PAGINA = 20;
 

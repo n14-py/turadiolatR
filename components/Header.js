@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 
 // Esta es la URL de tu API
-const API_URL = 'https://lfaftechapi.onrender.com/api';
+const API_URL = 'https://lfaftechapi-7nrb.onrender.com/api';
 
 export default function Header() {
     // --- 1. LÓGICA DEL MENÚ MÓVIL (de app.js) ---
