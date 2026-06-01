@@ -70,14 +70,7 @@ export default function Layout({ children }) {
 
       {/* Aquí se renderiza tu pie de página */}
       <Footer />
-      {/* Script de Monetag */}
-<Script
-  src="https://quge5.com/88/tag.min.js"
-  data-zone="222699"
-  async
-  data-cfasync="false"
-  strategy="afterInteractive" // <- se ejecuta solo en el navegador
-/>
+
       
       {/* El reproductor de audio lo añadiremos en el siguiente paso de una forma especial */}
     </>
